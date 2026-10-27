@@ -77,3 +77,7 @@ results.csv
 /results/plots/*
 /results/parse_caliper/*
 /results/vsds
+
+# Miscellaneous
+.vscode/
+build/
